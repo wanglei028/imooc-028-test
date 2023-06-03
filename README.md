@@ -11,3 +11,7 @@ npm publish
 
 npm remove -g imooc-029-test
 
+#本地调试脚手架
+创建快捷方式将 imooc-test命令 指向本地文件
+npm link
+
