@@ -2,7 +2,7 @@
   "name": "imooc-029-test",
   "version": "1.0.1",
   "description": "脚手架练习",
-  "bin":{
+  "bin": {
     "imooc-test": "bin/index.js"
   },
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wanglei028/imooc-029-test/issues"
   },
-  "homepage": "https://github.com/wanglei028/imooc-029-test#readme"
+  "homepage": "https://github.com/wanglei028/imooc-029-test#readme",
+  "dependencies": {
+    "imoocwl-test-lib": "^1.0.1"
+  }
 }

@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log('welcom imooc-test');
+const lib = require('imoocwl-test-lib')
+console.log(lib.sum(1,4));
+console.log('welcom imooc-test @@@');
