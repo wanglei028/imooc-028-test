@@ -1,0 +1,23 @@
+{
+  "name": "imooc-029-test",
+  "version": "1.0.1",
+  "description": "脚手架练习",
+  "bin":{
+    "imooc-test": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanglei028/imooc-029-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanglei028/imooc-029-test/issues"
+  },
+  "homepage": "https://github.com/wanglei028/imooc-029-test#readme"
+}
