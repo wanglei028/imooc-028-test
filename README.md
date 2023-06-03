@@ -6,3 +6,8 @@
 npm login
 
 npm publish
+
+#移除脚手架
+
+npm remove -g imooc-029-test
+
